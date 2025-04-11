@@ -2,6 +2,9 @@
 
 A modern, full-stack todo list application with automatic task status management, real-time updates, and an intuitive drag-and-drop interface.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - 🎯 Smart task status tracking (Ongoing, Success, Failure)
