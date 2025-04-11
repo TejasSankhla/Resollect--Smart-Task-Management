@@ -2,7 +2,7 @@
 
 A modern, full-stack todo list application with automatic task status management, real-time updates, and an intuitive drag-and-drop interface.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9b73ba58-e9c0-4728-ad9a-c58f556d2ed7)
 
 
 ## Features
